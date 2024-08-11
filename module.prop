@@ -1,0 +1,7 @@
+id=fix_package_installer
+name=FixPackageInstaller
+version=0.1.0
+versionCode=1
+author=xunmod
+description=解放你的4.4.4手表的原生包安装器
+updateJson=https://xunmod.github.io/fix_package_installer/update.json
